@@ -1,0 +1,27 @@
+_repo: The-Unconstitutionality-of-Slavery_31844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spooner, Lysander
+    birthdate: 1808
+    deathdate: 1887
+    gutenberg_agent_id: '552'
+    url: http://www.gutenberg.org/2009/agents/552
+    wikipedia: http://en.wikipedia.org/wiki/Lysander_Spooner
+description: Fugitive slaves -- an article first published in 1850.
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+title: The Unconstitutionality of Slavery
+url: http://www.gutenberg.org/ebooks/31844
